@@ -1,0 +1,30 @@
+h1{
+    color: red;
+}
+ 
+ 
+.red {
+    color: red;
+}
+ 
+.blue {
+    color: blue;
+}
+h2{
+    color: green;
+}
+
+.my-class {
+    font-size: 25px;
+}
+.my-class{
+    font-family: Arial;
+    color: red;
+}
+ .brown{
+    color: #964B00;
+    font-family: Helvetica;	
+}
+li{
+    text-align: left;
+}
